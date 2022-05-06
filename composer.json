@@ -1,17 +1,18 @@
 {
-    "name": "laimermic/datetime",
-    "description": "enables Date and Time objects which are calculable",
-    "type": "library",
-    "autoload": {
-        "psr-4": {
-            "Laimermic\\Datetime\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "Michael Laimer",
-            "email": "michaellaimer8@gmail.com"
-        }
-    ],
-    "require": {}
+  "name": "laimermic/datetime",
+  "description": "enables Date and Time objects which are calculable",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Laimermic\\Datetime\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Michael Laimer",
+      "email": "michaellaimer8@gmail.com"
+    }
+  ],
+  "license": "Apache-2.0",
+  "require": {}
 }
